@@ -6,7 +6,7 @@ Stage de recherche effectué du 13 avril au 9 août 2026 au sein du laboratoire 
 ## Contenu
 
 - `rapport_stage.pdf` — rapport complet (rédigé en anglais, résumé en français)
-- `soutenance.pptx` — support de la soutenance de stage
+- `soutenance.pdf` — support de la soutenance de stage
 
 ## Résumé du projet
 
